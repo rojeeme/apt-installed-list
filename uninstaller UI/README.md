@@ -9,7 +9,7 @@ To use this script, save it to a file and make it executable with the following 
 
  chmod +x scriptName.sh
 
-Then, you can run the script by typing ./script.sh in the terminal.
+Then, you can run the script by typing ./scriptName.sh in the terminal.
 
 
 Note that this script will only work on Debian-based systems (such as Ubuntu) that use the apt package manager. If you are using a different package manager (such as yum or dnf) or a different Linux distribution, you will need to modify the script to use the appropriate package manager commands.
